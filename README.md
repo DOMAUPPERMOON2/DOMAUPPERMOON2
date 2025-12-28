@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DOMAUPPERMOON2
+- 👋 Hi, I’m @LynxYuta
 - 👀 I’m interested in artificial intelligence 
 - 🌱 I’m currently learning coding
-- 📫 How to reach me domacyber2@gmail.com
+- 📫 How to reach me lynxyuta8@gmail.com
 
 <!---
 DOMAUPPERMOON2/DOMAUPPERMOON2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
